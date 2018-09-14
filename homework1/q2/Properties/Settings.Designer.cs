@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace homework2.Properties
+namespace q2.Properties
 {
 
 
